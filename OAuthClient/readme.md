@@ -1,0 +1,2 @@
+﻿Generic Host
+https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/generic-host?view=aspnetcore-2.1&ranMID=24542&ranEAID=je6NUbpObpQ&ranSiteID=je6NUbpObpQ-QRx.jL1mFBIjhuaattGHPw&epi=je6NUbpObpQ-QRx.jL1mFBIjhuaattGHPw&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=(ir__eyhkxpv0lckfryxokk0sohzg0e2xj6jf1eo1la0k00)(7593)(1243925)(je6NUbpObpQ-QRx.jL1mFBIjhuaattGHPw)()&irclickid=_eyhkxpv0lckfryxokk0sohzg0e2xj6jf1eo1la0k00
